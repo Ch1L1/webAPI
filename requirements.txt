@@ -1,5 +1,3 @@
 Flask
 requests
 yfinance
-ast
-operator
